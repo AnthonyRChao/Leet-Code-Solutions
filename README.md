@@ -1,5 +1,5 @@
 # Leet Code Solutions
 
-A collection of Leet Code challenge attempts.
+A collection of my Leet Code challenge attempts ... with comments!
 
 https://leetcode.com/
