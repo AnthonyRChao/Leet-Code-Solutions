@@ -1,4 +1,4 @@
-# Leet_Code_Solutions
+# Leet Code Solutions
 
 A collection of Leet Code challenge attempts.
 
