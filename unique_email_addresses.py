@@ -1,6 +1,4 @@
-https://leetcode.com/problems/unique-email-addresses
-
-# My first solution
+# https://leetcode.com/problems/unique-email-addresses
 
 class Solution:
     def numUniqueEmails(self, emails):
