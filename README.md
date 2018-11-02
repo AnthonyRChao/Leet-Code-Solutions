@@ -1,5 +1,5 @@
 # Leet_Code_Solutions
 
-A collection of my attempts at solving Leet Code challenges.
+A collection of Leet Code challenge attempts.
 
 https://leetcode.com/
