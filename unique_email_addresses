@@ -73,4 +73,6 @@ class Solution {
     }
 }
 
+_Learnings: .partition() .index() listSlicing
+
 """
