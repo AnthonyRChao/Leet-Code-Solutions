@@ -26,7 +26,7 @@ class Solution(object):
         A.sort(key = lambda x: x % 2)
         return A
 
-_Learnings: Use a custom comparator when sorting, to sort by parity.
+_Learnings | Use a custom comparator when sorting, to sort by parity.
 """
         
  
