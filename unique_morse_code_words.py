@@ -32,5 +32,5 @@ class Solution(object):
 
         return len(seen)
 
-_Learnings: dict(zip(x, y)) set_comprehension
+_Learnings | dict(zip(x, y)) | set_comprehension
 """
