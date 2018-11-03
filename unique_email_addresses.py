@@ -71,5 +71,5 @@ class Solution {
     }
 }
 
-_Learnings: .partition() .index() listSlicing
+_Learnings | .partition() | .index() | listSlicing
 """
